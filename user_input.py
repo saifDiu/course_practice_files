@@ -32,4 +32,7 @@ d = a - b
 
 # Or, and Operator, | , &&
 
+my_roll = float(input('ENter your roll no: '))
+print(my_roll)
+
 
